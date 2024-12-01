@@ -99,3 +99,4 @@ npm run dev
 3. Game history and analysis
 4. Adjustable AI difficulty levels
 5. Multi-game performance statistics
+# chess-ai-v2
