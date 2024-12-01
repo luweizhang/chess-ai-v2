@@ -1,0 +1,1 @@
+"""Chess game playing interfaces."""
