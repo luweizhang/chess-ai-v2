@@ -2,6 +2,8 @@
 
 A modern chess application with multiple AI implementations and a web-based interface.
 
+![Chess AI Interface](assets/chess_screenshot.png)
+
 ## Features
 
 - Web-based chess interface with beautiful piece designs
